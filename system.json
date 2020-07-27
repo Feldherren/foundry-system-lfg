@@ -22,7 +22,7 @@
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
   "url": "https://github.com/Feldherren/foundry-system-lfg",
-  "manifest": "https://github.com/Feldherren/foundry-system-lfg/raw/master/system.json",
+  "manifest": "https://raw.githubusercontent.com/Feldherren/foundry-system-lfg/master/system.json",
   "download": "",
   "license": "LICENSE.txt"
 }
